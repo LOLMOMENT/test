@@ -17,11 +17,10 @@ require(5134227819).load('gv8d') raining toads
 require(4780399515).load("gv8d") reality orb
 require(5166109121).load(‘9rv2’) jojo-ish clock thingy
 
-Server Crasher (spam it fast many times for the server to crash, dont worry it doesnt lag your client):
+Server Crasher:
 while true do
     bruh = Instance.new("Part")
     bruh.Parent = game.Workspace
-    bruh.Size = Vector3.new(222.07, 260.96, 252.05)
 end
 
 JOJO STAND PACK codes below - require(4902600443)("Code Name","heytoiletisguy2") - The World, Code Name : "TW" - Star Platinum, "SP" - Flamingo Platinum, "FP" - Steve Platinum, "STV" - King Crimson, "KC" - Sans Crimson, "SansC" - Crazy Diamond, "CD" - Whitesnake, "WS" - Made In Heaven, "MIH" - Noob Platinum, "NP" - The World Over Heaven, TWOH" - Golden Experience, "GE" - Golden Experience Requiem, "GER" - The Hand, "TH" - C-Moon, "CM" - Silver Chariot, "SC" - Silver Chariot Requiem, "SCR" - Star Platinum Over Heaven, "SPOH" - Star Platinum Requiem, "SPR" - The World Requiem, "TWR" - Killer Queen, "KQ"
